@@ -1,2 +1,2 @@
 # BasicProjects
-<p>hy my name is samar</p>
+<p>Weather app using basic javascript </p>
